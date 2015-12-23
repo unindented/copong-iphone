@@ -1,4 +1,4 @@
-# Copong for iPhone
+# Copong for iPhone ![Abandoned](https://img.shields.io/badge/status-abandoned-red.svg)
 
 A Pong clone made with Cocos2D for iPhone v0.8.2.
 
